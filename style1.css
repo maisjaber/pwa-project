@@ -1,0 +1,32 @@
+body html{
+  background-image: url(IMG/m.jpg);
+}
+
+h1{
+    color:cornflowerblue;
+    
+}
+.pet{
+    float: left;
+}
+/*blue background color to top nav*/
+nav{
+    overflow: hidden;
+    text-align: center;
+}
+/*style the link inside nav*/
+nav a{
+    display:inline-block;
+    font-size:larger;
+    font-weight: 500;
+    color: white;
+    text-decoration:none;
+    padding: 0 23px;
+    text-align: center;
+}
+/*coler of link on hover*/
+nav a:hover{
+    background-color: rgb(145, 156, 185);
+    color:white;
+}
+

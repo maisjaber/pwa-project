@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+
+.contact{
+    position: relative;
+    min-height: 100vh;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image:url(IMG/contact.jpg);
+    background-size: cover;
+}
+.contact .c{
+    max-width: 800px;
+    text-align: center;
+
+}
+.contact .c h2{
+    font-size: 36px;
+    font-weight: 500;
+    color: rgb(62, 155, 192);
+
+}
+.contact .c p{
+    font-weight: 300;
+    color: rgb(75, 162, 197) ;
+}
+.cont{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+h3{
+    color: rgb(62, 155, 192);;
+}
+

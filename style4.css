@@ -1,0 +1,20 @@
+body{
+    font-weight: bold;
+    text-align: center;
+}
+.s{
+    color:cornflowerblue ;
+    
+}
+
+nav{
+    text-align: center;
+}
+.t{
+    float: left;
+}
+
+nav a:hover{
+    background-color: rgb(145, 156, 185);
+    color:white;
+}

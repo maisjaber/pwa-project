@@ -1,0 +1,40 @@
+
+
+
+nav{
+    text-align: center;
+}
+.img{
+
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    position: relative;
+    
+    
+}
+
+
+
+.i{
+    width: 20%;
+    float: left;
+    display: block;
+    position: relative;
+}
+.i img{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+.i ul{
+    max-width: 90%;
+    text-align:left ;
+    margin: auto;
+    display: block;
+}
+nav a:hover{
+    background-color: rgb(145, 156, 185);
+    color:white;
+}
